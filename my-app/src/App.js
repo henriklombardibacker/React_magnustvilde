@@ -3,7 +3,7 @@ import './App.css';
 import Details from './Details';
 
 function App() {
-  const names = ['Jacky', 'Syver', 'Henrik', 'Morten']
+  const names = ['Jacky.', 'Syver.', 'Henrik.', 'Morten.']
   const numbers = [19, 17, 17, 17]
   return (
     <div className="App">
